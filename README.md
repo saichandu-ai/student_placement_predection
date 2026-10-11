@@ -72,8 +72,4 @@ The model uses the following input features:
 
 **Sai Chandu**
 
-This project is a step forward in my journey of learning Artificial Intelligence and Machine Learning. I look forward to building more projects and improving my practical skills.
-
----
-
 ⭐ If you find this project useful, consider giving the repository a star!
